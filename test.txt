@@ -1,4 +1,4 @@
 minigit
 short
-new
+
 casper
